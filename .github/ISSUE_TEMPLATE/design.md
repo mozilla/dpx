@@ -1,30 +1,33 @@
 ---
-name: Request for Design
-about: Do you have something you're working on that you'd like a designer to take a look at? Let us know.
+name: XD Task
+about: Issue template for a product task that XD is working on.
 title: ''
 labels: 'xd'
 assignees: ''
 
 ---
 
-**Describe the feature**
-Briefly explain the feature or tool you're working on, what problem it's intending to solve, and what the expected outcome is.
+### Proposed project plan
 
+**Goal**
+Briefly explain the problem, goal(s) or outcome(s) you would like to achieve.
 
-**Describe the design request**
-Describe what design input you need. For example, is it:
+**Subtasks**
+List all action items or subtasks to accomplish the above goal.
 
-1. User research
-1. Journey mapping
-1. UX design
-1. UI polish
-1. Something else entirely
+- [ ] Describe to-do item
 
-**Timeline and priority (if applicable)**
-Do you have a deadline or a ship date you're trying to target?
+**Timeline and priority**
+Rough timeline based on a 5-day sprint.
 
-**Linked issues**
-Please list any other Github issues that are constrained by or dependent on this feature here.
+- [ ] Weekday, Month Day: Description of dilverable/item due date
+
+**Linked issues (if applicable)**
+Please list any other GitHub issues that are constrained by or dependent on this feature here.
+
+- [Title](link)
 
 **Additional context**
-Add any other context about the problem here, such as platform limits, other dependencies, etc.
+Add any resources, documents, or relevant links for context here.
+
+- [Title](link)

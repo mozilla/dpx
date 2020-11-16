@@ -11,5 +11,6 @@ If you create an issue in your own repo, make sure that it's a repo that the DPX
 
 Issues from these sources will be linked to the DPX team's Zenhub workflow boards, where you can also see what else they're working on: 
 
+* [Hubs](https://app.zenhub.com/workspaces/dpx-hubs-5fb2cede17eb69001d393a6a/board?labels=zenhub-hubs&repos=104933644)
 * [Privacy & Security - VPN](https://app.zenhub.com/workspaces/dpx-security--privacy-5faedaa62b4e9a000e3418ab/board?repos=293940617,287695634/board?labels=zenhub-vpn)
 * [Product Integrity](https://app.zenhub.com/workspaces/dpx-product-integrity-team-5f626abe18405f000fd9d8ae/board?labels=zenhub-prod-integrity)

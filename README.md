@@ -1,4 +1,4 @@
-# DPX Planning and Intake Process
+# DPX
 
 Please use this repo to report things you're working on for the Design and People Experiences team.
 
@@ -11,6 +11,8 @@ If you create an issue in your own repo, make sure that it's a repo that the DPX
 
 Issues from these sources will be linked to the DPX team's Zenhub workflow boards, where you can also see what else they're working on: 
 
-* [Hubs](https://app.zenhub.com/workspaces/dpx-hubs-5fb2cede17eb69001d393a6a/board?labels=zenhub-hubs&repos=104933644)
-* [Privacy & Security - VPN](https://app.zenhub.com/workspaces/dpx-security--privacy-5faedaa62b4e9a000e3418ab/board?labels=zenhub-vpn&repos=293940617,287695634)
-* [Product Integrity](https://app.zenhub.com/workspaces/dpx-product-integrity-team-5f626abe18405f000fd9d8ae/board?labels=zenhub-prod-integrity)
+* [DPX Hubs](https://app.zenhub.com/workspaces/dpx-hubs-5fb2cede17eb69001d393a6a/board?labels=zenhub-hubs&repos=104933644)
+* [DPX Privacy & Security - VPN](https://app.zenhub.com/workspaces/dpx-security--privacy-5faedaa62b4e9a000e3418ab/board?repos=293940617,287695634)
+* [DPX Product Integrity](https://app.zenhub.com/workspaces/dpx-product-integrity-team-5f626abe18405f000fd9d8ae/board?labels=zenhub-prod-integrity)
+* [DPX Future Products](https://app.zenhub.com/workspaces/dpx-future-products-601321fc13db9c0011a9d789/board?repos=293940617)
+* [DPX Research](https://app.zenhub.com/workspaces/dpx-research-5fd7c12d7260fd0015aaff59/board?repos=293940617)

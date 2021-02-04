@@ -7,7 +7,7 @@ In order to request design input or support on something you're working on, you 
 1. Create an issue in your own repo and apply the relevant label (`zenhub-hubs` for Hubs, `zenhub-vpn` for VPN, `zenhub-prod-integrity` for product integrity)
 1. Create an issue in this repo using one of the [issue templates](https://github.com/mozilla/dpx-design-process/issues/new/choose)
 
-If you create an issue in your own repo, make sure that it's a repo that the DPX team has at minimum read access to, so that they can be assigned to those issues for easier tracking. When in doubt, ping [@phirework](https://github.com/phirework) or [@malqinneh](https://github.com/malqinneh).
+If you create an issue in your own repo, make sure that it's a repo that the DPX team has at minimum read access to, so that they can be assigned to those issues for easier tracking. When in doubt, ping [@malqinneh](https://github.com/malqinneh).
 
 Issues from these sources will be linked to the DPX team's Zenhub workflow boards, where you can also see what else they're working on: 
 
